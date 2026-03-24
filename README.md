@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1avS1lMX4pO2XkZDOAdn0bNmx2X0YDOZ0/view?usp=drive_link](https://drive.google.com/file/d/1avS1lMX4pO2XkZDOAdn0bNmx2X0YDOZ0/view?usp=drive_link)
 
-- 💬 Ask me about **Golang,Node js,Angular,React js,Flutter**
+- 💬 Ask me about **.Php,Vue Js,Golang,Node js,Angular,React js**
 
 - 📫 How to reach me **jamesmukumu03@gmail.com**
 
