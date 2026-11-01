@@ -12,9 +12,9 @@
 
 - 👯 I’m looking to collaborate on **Mkurugenzi TV**
 
-- 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1avS1lMX4pO2XkZDOAdn0bNmx2X0YDOZ0/view?usp=drive_link](https://drive.google.com/file/d/1avS1lMX4pO2XkZDOAdn0bNmx2X0YDOZ0/view?usp=drive_link)
+- 👨‍💻 All of my projects are available at [jamesmukumu.co.ke](<https://www.jamesmukumu.co.ke/)
 
-- 💬 Ask me about **.Php,Vue Js,Golang,Node js,Angular,React js**
+- 💬 Ask me about **.Golang,Php,Vue Js,,Node js,Angular,React js**
 
 - 📫 How to reach me **jamesmukumu03@gmail.com**
 
